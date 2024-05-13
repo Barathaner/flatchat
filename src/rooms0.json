@@ -1,0 +1,2322 @@
+{
+    "data": {
+        "results": [
+            {
+                "type": "room_card",
+                "attributes": {
+                    "room_id": 1175131,
+                    "marker": {
+                        "lat": 41.404368,
+                        "lng": 2.154831,
+                        "label": {
+                            "content": "€500",
+                            "color": "neutral-80",
+                            "background_color": "neutral-00",
+                            "icon": null
+                        }
+                    },
+                    "headline": {
+                        "content": "Habitación en Vila de Gràcia",
+                        "color": "neutral-80",
+                        "icon": null
+                    },
+                    "subheading": {
+                        "content": "PRIVATE ROOM · 3 FLATMATES",
+                        "color": "neutral-50",
+                        "icon": null
+                    },
+                    "labels": [],
+                    "extra_info": [
+                        {
+                            "title": {
+                                "content": "Price",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "€500/month",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        },
+                        {
+                            "title": {
+                                "content": "Bills",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "Included",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        }
+                    ],
+                    "lister": {
+                        "picture": {
+                            "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_e6d96394-db4a-450a-87ae-b7fb1a67e02f.jpeg"
+                        },
+                        "label": {
+                            "content": "5",
+                            "color": "neutral-00",
+                            "background_color": "info",
+                            "icon": "trusted"
+                        }
+                    },
+                    "pictures": {
+                        "items": [
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_597c9884-389a-49b9-ae76-b83ae812d527.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_1ce6d736-d3b8-4add-a5a4-d2f49ce049dc.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_817006ca-e987-4273-a375-3f5f7d0604d9.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_00ea7811-9317-4f28-a210-e88a5c78d42d.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_134613d3-5c35-4996-b9aa-d1ac3681f79e.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_ff012a7c-eb87-493a-aea7-f1955c9660fc.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_1339054b-9269-4d67-89f2-adb19b74f235.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_55da2b86-cefe-414f-a61a-0cec47c806ed.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_2fb9bb01-bfe9-4062-a565-c57850955cd2.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_32c1afdb-069e-4d68-bfa3-11a22512f8d8.jpg"
+                            }
+                        ],
+                        "back_cover": {
+                            "background": {
+                                "picture": {
+                                    "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_597c9884-389a-49b9-ae76-b83ae812d527.jpg"
+                                }
+                            },
+                            "hint": {
+                                "content": "13 pictures more to see inside",
+                                "color": "neutral-00",
+                                "icon": null
+                            },
+                            "cta": {
+                                "content": "See all pictures",
+                                "color": "neutral-00",
+                                "icon": null
+                            }
+                        },
+                        "contact_banner": null
+                    }
+                }
+            },
+            {
+                "type": "room_card",
+                "attributes": {
+                    "room_id": 1107145,
+                    "marker": {
+                        "lat": 41.403992,
+                        "lng": 2.177974,
+                        "label": {
+                            "content": "€625",
+                            "color": "neutral-80",
+                            "background_color": "neutral-00",
+                            "icon": null
+                        }
+                    },
+                    "headline": {
+                        "content": "Habitación Simple a pasos de la Sagrada Familia",
+                        "color": "neutral-80",
+                        "icon": null
+                    },
+                    "subheading": {
+                        "content": "PRIVATE ROOM · NO FLATMATES",
+                        "color": "neutral-50",
+                        "icon": null
+                    },
+                    "labels": [],
+                    "extra_info": [
+                        {
+                            "title": {
+                                "content": "Price",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "€̶6̶5̶0̶ €625/month",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        },
+                        {
+                            "title": {
+                                "content": "Bills",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "Included",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        }
+                    ],
+                    "lister": {
+                        "picture": {
+                            "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_0f7f2e31-cb9b-4d79-8709-e733ade8aa16.jpeg"
+                        },
+                        "label": {
+                            "content": "3",
+                            "color": "neutral-00",
+                            "background_color": "info",
+                            "icon": "trusted"
+                        }
+                    },
+                    "pictures": {
+                        "items": [
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_2af9c42d-3c91-4b3c-a2e6-8ad4d00f7736.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_9a8fbca4-ccd7-4899-b78c-0fe17048f63d.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_dd53ebf1-30ad-413f-848a-bfcf539c2296.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_95b6cca4-d40f-47ee-98f8-1fc6e09ba470.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_70d78b95-81fb-4411-afff-38b58396854f.jpeg"
+                            }
+                        ],
+                        "back_cover": null,
+                        "contact_banner": null
+                    }
+                }
+            },
+            {
+                "type": "room_card",
+                "attributes": {
+                    "room_id": 1169916,
+                    "marker": {
+                        "lat": 41.385432,
+                        "lng": 2.162312,
+                        "label": {
+                            "content": "€580",
+                            "color": "neutral-80",
+                            "background_color": "neutral-00",
+                            "icon": null
+                        }
+                    },
+                    "headline": {
+                        "content": "Excelente localización. A estrenar. Comoda y completa.",
+                        "color": "neutral-80",
+                        "icon": null
+                    },
+                    "subheading": {
+                        "content": "PRIVATE ROOM · 3 FLATMATES",
+                        "color": "neutral-50",
+                        "icon": null
+                    },
+                    "labels": [],
+                    "extra_info": [
+                        {
+                            "title": {
+                                "content": "Price",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "€580/month",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        },
+                        {
+                            "title": {
+                                "content": "Bills",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "Included",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        }
+                    ],
+                    "lister": {
+                        "picture": {
+                            "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_496e8dfb-6c97-42fd-b63b-80daada7dca5.jpeg"
+                        },
+                        "label": {
+                            "content": "5",
+                            "color": "neutral-00",
+                            "background_color": "info",
+                            "icon": "trusted"
+                        }
+                    },
+                    "pictures": {
+                        "items": [
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_0cc7957a-553e-42e4-b9cb-060bae994b95.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_bea08f99-8510-4d4d-9b9c-01ab9e0bd46d.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_1c3477b2-7801-4f76-8df2-0167a3b6e571.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_0bfa254d-f644-467d-ae29-b460cbd4c023.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_5e8dc363-7ce0-4348-a1ef-0838a62b9562.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_c2f9ab23-6a3a-4101-a4d8-5951996a66eb.jpeg"
+                            }
+                        ],
+                        "back_cover": null,
+                        "contact_banner": null
+                    }
+                }
+            },
+            {
+                "type": "room_card",
+                "attributes": {
+                    "room_id": 807805,
+                    "marker": {
+                        "lat": 41.40445,
+                        "lng": 2.152583,
+                        "label": {
+                            "content": "€445",
+                            "color": "neutral-80",
+                            "background_color": "neutral-00",
+                            "icon": null
+                        }
+                    },
+                    "headline": {
+                        "content": "habitacion disponible barrio de gracia (fontana)",
+                        "color": "neutral-80",
+                        "icon": null
+                    },
+                    "subheading": {
+                        "content": "PRIVATE ROOM · 3 FLATMATES",
+                        "color": "neutral-50",
+                        "icon": null
+                    },
+                    "labels": [],
+                    "extra_info": [
+                        {
+                            "title": {
+                                "content": "Price",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "€445/month",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        },
+                        {
+                            "title": {
+                                "content": "Bills",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "Included",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        }
+                    ],
+                    "lister": {
+                        "picture": {
+                            "url": "https://graph.facebook.com/10210547961687354/picture?width=500"
+                        },
+                        "label": {
+                            "content": "5",
+                            "color": "neutral-00",
+                            "background_color": "info",
+                            "icon": "trusted"
+                        }
+                    },
+                    "pictures": {
+                        "items": [
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_3d18fe3c-4161-4c9d-bee8-cea89ddce790.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_4ca20a11-aed5-40f6-b6ee-3587d039afe9.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_c5edae71-41bd-4f25-b45e-9411352cd126.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_a2da29a6-f221-49ec-abca-e0acf480d074.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_81336739-0966-4aa3-8b24-b88e55262e3e.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_6cd76d40-7d9b-4113-afa1-dc70a7d38955.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_527e075a-bfa8-432d-a6db-c6db7b01bafd.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_af975478-7db9-4c6e-a864-ab3a15b91498.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_d5a8725c-ada3-48ee-b78a-6627d7e47242.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_d8f5cad6-c465-4f2a-91fd-4511a4cb9740.jpg"
+                            }
+                        ],
+                        "back_cover": {
+                            "background": {
+                                "picture": {
+                                    "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_3d18fe3c-4161-4c9d-bee8-cea89ddce790.jpg"
+                                }
+                            },
+                            "hint": {
+                                "content": "19 pictures more to see inside",
+                                "color": "neutral-00",
+                                "icon": null
+                            },
+                            "cta": {
+                                "content": "See all pictures",
+                                "color": "neutral-00",
+                                "icon": null
+                            }
+                        },
+                        "contact_banner": null
+                    }
+                }
+            },
+            {
+                "type": "room_card",
+                "attributes": {
+                    "room_id": 1130639,
+                    "marker": {
+                        "lat": 41.378958,
+                        "lng": 2.17263,
+                        "label": {
+                            "content": "€850",
+                            "color": "neutral-80",
+                            "background_color": "neutral-00",
+                            "icon": null
+                        }
+                    },
+                    "headline": {
+                        "content": "Bright room with private bathroom Center of the City ",
+                        "color": "neutral-80",
+                        "icon": null
+                    },
+                    "subheading": {
+                        "content": "PRIVATE ROOM · 1 FLATMATE",
+                        "color": "neutral-50",
+                        "icon": null
+                    },
+                    "labels": [],
+                    "extra_info": [
+                        {
+                            "title": {
+                                "content": "Price",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "€850/month",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        },
+                        {
+                            "title": {
+                                "content": "Bills",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "Included",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        }
+                    ],
+                    "lister": {
+                        "picture": {
+                            "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_e4b508d6-e331-4540-895c-7b7c8da0550f.jpeg"
+                        },
+                        "label": {
+                            "content": "5",
+                            "color": "neutral-00",
+                            "background_color": "info",
+                            "icon": "trusted"
+                        }
+                    },
+                    "pictures": {
+                        "items": [
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_cc5f8838-96e7-47f5-bd0f-918b50e9e5b7.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_70f9dbec-debf-4c78-9b1a-aad9daa61ad8.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_3eb6e4c9-0b39-48b9-9b3b-34a8bfe67a6b.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_332eaf89-a2f6-411d-9fb5-94112df9bf18.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_83db51a3-1453-40f4-b459-98b77facc9f7.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_f064a643-12ad-4a67-9664-34d5da259fda.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_e8c0734a-d807-4b0e-86c6-efbe6225a3e7.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_8c9da1e4-317c-4c42-b3e0-3e7bf859ca85.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_50c0cb91-b8e0-4a6f-a3dc-eb2854094e4a.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_365380e7-9957-4163-9813-a2f5c55a929f.jpeg"
+                            }
+                        ],
+                        "back_cover": {
+                            "background": {
+                                "picture": {
+                                    "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_cc5f8838-96e7-47f5-bd0f-918b50e9e5b7.jpeg"
+                                }
+                            },
+                            "hint": {
+                                "content": "26 pictures more to see inside",
+                                "color": "neutral-00",
+                                "icon": null
+                            },
+                            "cta": {
+                                "content": "See all pictures",
+                                "color": "neutral-00",
+                                "icon": null
+                            }
+                        },
+                        "contact_banner": null
+                    }
+                }
+            },
+            {
+                "type": "room_card",
+                "attributes": {
+                    "room_id": 1153504,
+                    "marker": {
+                        "lat": 41.412841,
+                        "lng": 2.162775,
+                        "label": {
+                            "content": "€550",
+                            "color": "neutral-80",
+                            "background_color": "neutral-00",
+                            "icon": null
+                        }
+                    },
+                    "headline": {
+                        "content": "Habitación doble en piso a compartir con una persona",
+                        "color": "neutral-80",
+                        "icon": null
+                    },
+                    "subheading": {
+                        "content": "PRIVATE ROOM · 1 FLATMATE",
+                        "color": "neutral-50",
+                        "icon": null
+                    },
+                    "labels": [],
+                    "extra_info": [
+                        {
+                            "title": {
+                                "content": "Price",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "€550/month",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        }
+                    ],
+                    "lister": {
+                        "picture": {
+                            "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_2f0259db-c013-425e-85e5-afb255a233af.jpg"
+                        },
+                        "label": {
+                            "content": "4",
+                            "color": "neutral-00",
+                            "background_color": "info",
+                            "icon": "trusted"
+                        }
+                    },
+                    "pictures": {
+                        "items": [
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_df5eca0f-b3ad-4e7c-b4a4-d0f18e6a5d00.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_a42d571e-dbb8-4a86-aaba-6370b3a3b5a3.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_cc13efdf-8700-4b24-bf97-373f2d1f1f79.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_012954e3-d3e1-4d67-9de7-2213aac5b614.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_973f0417-60cd-4031-9e3a-397abcdfff76.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_2a18b306-08ab-43ed-8d55-fba5a2a30c2b.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_c67dcce0-06e2-490d-9c65-487833cb9c89.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_f2dfe0c7-064f-41a6-8a71-9babd3a64d40.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_8316239e-0fdc-4947-a84e-bad1c2e3e436.jpg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_78b52b06-1c30-47aa-bff3-1848835f5957.jpg"
+                            }
+                        ],
+                        "back_cover": {
+                            "background": {
+                                "picture": {
+                                    "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_df5eca0f-b3ad-4e7c-b4a4-d0f18e6a5d00.jpg"
+                                }
+                            },
+                            "hint": {
+                                "content": "12 pictures more to see inside",
+                                "color": "neutral-00",
+                                "icon": null
+                            },
+                            "cta": {
+                                "content": "See all pictures",
+                                "color": "neutral-00",
+                                "icon": null
+                            }
+                        },
+                        "contact_banner": null
+                    }
+                }
+            },
+            {
+                "type": "room_card",
+                "attributes": {
+                    "room_id": 1172530,
+                    "marker": {
+                        "lat": 41.390657,
+                        "lng": 2.156598,
+                        "label": {
+                            "content": "€975",
+                            "color": "neutral-80",
+                            "background_color": "neutral-00",
+                            "icon": null
+                        }
+                    },
+                    "headline": {
+                        "content": "ROOM FALGUERA at CASA SUNA",
+                        "color": "neutral-80",
+                        "icon": null
+                    },
+                    "subheading": {
+                        "content": "PRIVATE ROOM · 4 FLATMATES",
+                        "color": "neutral-50",
+                        "icon": null
+                    },
+                    "labels": [
+                        {
+                            "content": "BADI PLUS",
+                            "color": "neutral-00",
+                            "background_color": "tertiary",
+                            "icon": null
+                        }
+                    ],
+                    "extra_info": [
+                        {
+                            "title": {
+                                "content": "Price",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "€975/month",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        },
+                        {
+                            "title": {
+                                "content": "Bills",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "Included",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        }
+                    ],
+                    "lister": {
+                        "picture": {
+                            "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_69406c0e-5853-4d2b-8f33-c2e655679f2a.png"
+                        },
+                        "label": {
+                            "content": "900",
+                            "color": "neutral-00",
+                            "background_color": "info",
+                            "icon": "trusted"
+                        }
+                    },
+                    "pictures": {
+                        "items": [
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_0c7fa49f-3aad-480a-95b4-605bc6c791d9.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_0cb8e58a-20b8-4007-9782-89bfddeed27b.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_191d73b9-a497-40b5-b6eb-568200361e12.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_671d9378-6a0e-469e-bfd0-3bfab51a2713.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_2dd77063-8fea-4bd4-98e9-442ed88a6576.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_778f0477-3a7c-45e2-ba23-f33e3409e236.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_0fa2a3eb-8c42-4547-8316-0a0eb2b5e8b5.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_d8225d59-2ce2-4ea2-9898-66a75154523f.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_3659c909-32cc-4bb8-94d3-1291cf54b0c0.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_7b06fc26-0791-4346-bd49-a89c27857142.jpeg"
+                            }
+                        ],
+                        "back_cover": {
+                            "background": {
+                                "picture": {
+                                    "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_0c7fa49f-3aad-480a-95b4-605bc6c791d9.jpeg"
+                                }
+                            },
+                            "hint": {
+                                "content": "15 pictures more to see inside",
+                                "color": "neutral-00",
+                                "icon": null
+                            },
+                            "cta": {
+                                "content": "See all pictures",
+                                "color": "neutral-00",
+                                "icon": null
+                            }
+                        },
+                        "contact_banner": null
+                    }
+                }
+            },
+            {
+                "type": "room_card",
+                "attributes": {
+                    "room_id": 1172527,
+                    "marker": {
+                        "lat": 41.390657,
+                        "lng": 2.156598,
+                        "label": {
+                            "content": "€975",
+                            "color": "neutral-80",
+                            "background_color": "neutral-00",
+                            "icon": null
+                        }
+                    },
+                    "headline": {
+                        "content": "ROOM MICO at CASA SUNA",
+                        "color": "neutral-80",
+                        "icon": null
+                    },
+                    "subheading": {
+                        "content": "PRIVATE ROOM · 4 FLATMATES",
+                        "color": "neutral-50",
+                        "icon": null
+                    },
+                    "labels": [
+                        {
+                            "content": "BADI PLUS",
+                            "color": "neutral-00",
+                            "background_color": "tertiary",
+                            "icon": null
+                        }
+                    ],
+                    "extra_info": [
+                        {
+                            "title": {
+                                "content": "Price",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "€975/month",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        },
+                        {
+                            "title": {
+                                "content": "Bills",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "Included",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        }
+                    ],
+                    "lister": {
+                        "picture": {
+                            "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_69406c0e-5853-4d2b-8f33-c2e655679f2a.png"
+                        },
+                        "label": {
+                            "content": "900",
+                            "color": "neutral-00",
+                            "background_color": "info",
+                            "icon": "trusted"
+                        }
+                    },
+                    "pictures": {
+                        "items": [
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_85b988ab-341e-44a5-b044-34f8a3b8c8a2.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_7469028b-7438-4f1d-bd39-28387658d6cb.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_3e87b8f9-1916-437c-875d-66451b2cdcff.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_19b4bc7a-b218-4c68-be18-3b4c3ca6bf19.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_98cb5be8-7f08-4434-bfb9-be1942d0c4bb.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_ed11fe98-3dbc-49b7-8990-0b1f02c3bb5e.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_2e469245-be89-4740-bbc3-cfd52b496f57.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_58d01494-cf23-4254-beb8-ff17e8c1be15.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_70291527-9387-4c94-b34c-c9ac45646f2b.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_3659c909-32cc-4bb8-94d3-1291cf54b0c0.jpeg"
+                            }
+                        ],
+                        "back_cover": {
+                            "background": {
+                                "picture": {
+                                    "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_85b988ab-341e-44a5-b044-34f8a3b8c8a2.jpeg"
+                                }
+                            },
+                            "hint": {
+                                "content": "16 pictures more to see inside",
+                                "color": "neutral-00",
+                                "icon": null
+                            },
+                            "cta": {
+                                "content": "See all pictures",
+                                "color": "neutral-00",
+                                "icon": null
+                            }
+                        },
+                        "contact_banner": null
+                    }
+                }
+            },
+            {
+                "type": "room_card",
+                "attributes": {
+                    "room_id": 1172525,
+                    "marker": {
+                        "lat": 41.390657,
+                        "lng": 2.156598,
+                        "label": {
+                            "content": "€750",
+                            "color": "neutral-80",
+                            "background_color": "neutral-00",
+                            "icon": null
+                        }
+                    },
+                    "headline": {
+                        "content": "ROOM PROA at CASA SUNA",
+                        "color": "neutral-80",
+                        "icon": null
+                    },
+                    "subheading": {
+                        "content": "PRIVATE ROOM · 4 FLATMATES",
+                        "color": "neutral-50",
+                        "icon": null
+                    },
+                    "labels": [
+                        {
+                            "content": "BADI PLUS",
+                            "color": "neutral-00",
+                            "background_color": "tertiary",
+                            "icon": null
+                        }
+                    ],
+                    "extra_info": [
+                        {
+                            "title": {
+                                "content": "Price",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "€750/month",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        },
+                        {
+                            "title": {
+                                "content": "Bills",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "Included",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        }
+                    ],
+                    "lister": {
+                        "picture": {
+                            "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_69406c0e-5853-4d2b-8f33-c2e655679f2a.png"
+                        },
+                        "label": {
+                            "content": "900",
+                            "color": "neutral-00",
+                            "background_color": "info",
+                            "icon": "trusted"
+                        }
+                    },
+                    "pictures": {
+                        "items": [
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_4726d6d9-2a97-4b21-b9d2-4e37a1edf859.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_37207872-8b2a-4e9c-b49f-8ba298ddd93f.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_8781f60b-9cb8-4ae8-8cdb-e30c443308c3.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_c744aa3f-6b46-4291-a029-f9d90ed75704.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_0fb3c4fa-a9aa-4ecc-9ca9-21794b240e78.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_e121f982-e0b8-4419-acaf-49a43e4578b8.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_3659c909-32cc-4bb8-94d3-1291cf54b0c0.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_7b06fc26-0791-4346-bd49-a89c27857142.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_11a980ee-409a-46c4-ab5d-f93772f7acba.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_d1649c84-f85a-4a35-9168-93975221869d.jpeg"
+                            }
+                        ],
+                        "back_cover": {
+                            "background": {
+                                "picture": {
+                                    "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_4726d6d9-2a97-4b21-b9d2-4e37a1edf859.jpeg"
+                                }
+                            },
+                            "hint": {
+                                "content": "13 pictures more to see inside",
+                                "color": "neutral-00",
+                                "icon": null
+                            },
+                            "cta": {
+                                "content": "See all pictures",
+                                "color": "neutral-00",
+                                "icon": null
+                            }
+                        },
+                        "contact_banner": null
+                    }
+                }
+            },
+            {
+                "type": "room_card",
+                "attributes": {
+                    "room_id": 1172519,
+                    "marker": {
+                        "lat": 41.390657,
+                        "lng": 2.156598,
+                        "label": {
+                            "content": "€750",
+                            "color": "neutral-80",
+                            "background_color": "neutral-00",
+                            "icon": null
+                        }
+                    },
+                    "headline": {
+                        "content": "ROOM NINOT at CASA SUNA",
+                        "color": "neutral-80",
+                        "icon": null
+                    },
+                    "subheading": {
+                        "content": "PRIVATE ROOM · 4 FLATMATES",
+                        "color": "neutral-50",
+                        "icon": null
+                    },
+                    "labels": [
+                        {
+                            "content": "BADI PLUS",
+                            "color": "neutral-00",
+                            "background_color": "tertiary",
+                            "icon": null
+                        }
+                    ],
+                    "extra_info": [
+                        {
+                            "title": {
+                                "content": "Price",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "€750/month",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        },
+                        {
+                            "title": {
+                                "content": "Bills",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "Included",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        }
+                    ],
+                    "lister": {
+                        "picture": {
+                            "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_69406c0e-5853-4d2b-8f33-c2e655679f2a.png"
+                        },
+                        "label": {
+                            "content": "900",
+                            "color": "neutral-00",
+                            "background_color": "info",
+                            "icon": "trusted"
+                        }
+                    },
+                    "pictures": {
+                        "items": [
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_1ee22265-6f0b-48ba-a8af-f8b36cd61d34.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_2b753319-5dec-4a04-b76b-dc0a50d1cbf9.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_99be736d-38a3-499c-94e1-812f1f025e72.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_932745bb-9ade-4b49-ad97-0bc3d5de63ab.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_68bfbeff-7492-4f5c-a4df-b0e974d1436b.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_4633b04e-c775-4dff-9f43-ff76d3cda680.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_bd9da528-fcce-4d7d-85c0-80d8bd27225a.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_682d0798-396d-4041-abb7-757c6275d4b6.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_11a980ee-409a-46c4-ab5d-f93772f7acba.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_d1649c84-f85a-4a35-9168-93975221869d.jpeg"
+                            }
+                        ],
+                        "back_cover": {
+                            "background": {
+                                "picture": {
+                                    "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_1ee22265-6f0b-48ba-a8af-f8b36cd61d34.jpeg"
+                                }
+                            },
+                            "hint": {
+                                "content": "13 pictures more to see inside",
+                                "color": "neutral-00",
+                                "icon": null
+                            },
+                            "cta": {
+                                "content": "See all pictures",
+                                "color": "neutral-00",
+                                "icon": null
+                            }
+                        },
+                        "contact_banner": null
+                    }
+                }
+            },
+            {
+                "type": "room_card",
+                "attributes": {
+                    "room_id": 1172501,
+                    "marker": {
+                        "lat": 41.390657,
+                        "lng": 2.156598,
+                        "label": {
+                            "content": "€750",
+                            "color": "neutral-80",
+                            "background_color": "neutral-00",
+                            "icon": null
+                        }
+                    },
+                    "headline": {
+                        "content": "ROOM ANIMA at CASA SUNA",
+                        "color": "neutral-80",
+                        "icon": null
+                    },
+                    "subheading": {
+                        "content": "PRIVATE ROOM · 4 FLATMATES",
+                        "color": "neutral-50",
+                        "icon": null
+                    },
+                    "labels": [
+                        {
+                            "content": "BADI PLUS",
+                            "color": "neutral-00",
+                            "background_color": "tertiary",
+                            "icon": null
+                        }
+                    ],
+                    "extra_info": [
+                        {
+                            "title": {
+                                "content": "Price",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "€750/month",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        },
+                        {
+                            "title": {
+                                "content": "Bills",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "Included",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        }
+                    ],
+                    "lister": {
+                        "picture": {
+                            "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_69406c0e-5853-4d2b-8f33-c2e655679f2a.png"
+                        },
+                        "label": {
+                            "content": "900",
+                            "color": "neutral-00",
+                            "background_color": "info",
+                            "icon": "trusted"
+                        }
+                    },
+                    "pictures": {
+                        "items": [
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_b9af24a7-f752-4279-9b7c-2f7f9c5dc0c7.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_0be81677-9335-49f8-a557-64038017d90e.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_15af4fda-08ac-4226-9072-0e099e227372.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_2e0c7a2f-5c5d-4cd6-8c58-c8e8ab1176f0.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_828b6892-2ab1-47e2-b790-a2bc83e32926.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_217df484-d6a3-4c18-80b5-444928ed9d5f.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_bd9da528-fcce-4d7d-85c0-80d8bd27225a.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_682d0798-396d-4041-abb7-757c6275d4b6.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_11a980ee-409a-46c4-ab5d-f93772f7acba.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_d1649c84-f85a-4a35-9168-93975221869d.jpeg"
+                            }
+                        ],
+                        "back_cover": {
+                            "background": {
+                                "picture": {
+                                    "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_b9af24a7-f752-4279-9b7c-2f7f9c5dc0c7.jpeg"
+                                }
+                            },
+                            "hint": {
+                                "content": "13 pictures more to see inside",
+                                "color": "neutral-00",
+                                "icon": null
+                            },
+                            "cta": {
+                                "content": "See all pictures",
+                                "color": "neutral-00",
+                                "icon": null
+                            }
+                        },
+                        "contact_banner": null
+                    }
+                }
+            },
+            {
+                "type": "room_card",
+                "attributes": {
+                    "room_id": 1163045,
+                    "marker": {
+                        "lat": 41.409991,
+                        "lng": 2.146188,
+                        "label": {
+                            "content": "€750",
+                            "color": "neutral-80",
+                            "background_color": "neutral-00",
+                            "icon": null
+                        }
+                    },
+                    "headline": {
+                        "content": "ROOM DIAMANT at CASA RODOREDA ",
+                        "color": "neutral-80",
+                        "icon": null
+                    },
+                    "subheading": {
+                        "content": "PRIVATE ROOM · NO FLATMATES",
+                        "color": "neutral-50",
+                        "icon": null
+                    },
+                    "labels": [
+                        {
+                            "content": "BADI PLUS",
+                            "color": "neutral-00",
+                            "background_color": "tertiary",
+                            "icon": null
+                        }
+                    ],
+                    "extra_info": [
+                        {
+                            "title": {
+                                "content": "Price",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "€750/month",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        },
+                        {
+                            "title": {
+                                "content": "Bills",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "Included",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        }
+                    ],
+                    "lister": {
+                        "picture": {
+                            "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_69406c0e-5853-4d2b-8f33-c2e655679f2a.png"
+                        },
+                        "label": {
+                            "content": "900",
+                            "color": "neutral-00",
+                            "background_color": "info",
+                            "icon": "trusted"
+                        }
+                    },
+                    "pictures": {
+                        "items": [
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_d1408a4c-4562-4a62-b00d-ec85d6b9f139.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_fec83cf9-9c42-42e2-a058-3f5cfd53306d.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_f59b1844-069a-4a4f-9f1c-ddda7b1327c0.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_a22dc204-4fd0-4aa6-9a98-a9e3881cb7a6.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_8efec2a1-ca31-4148-8d44-bea71d8613e3.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_b1ce36c0-d89a-4679-9ce6-011572658c3c.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_588edc57-e4f3-4764-9298-aaae04207ebe.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_5caf09ae-3943-478f-af55-ebd69906a95c.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_5acd4a0f-7193-4584-bd96-a24221ae3da5.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_c48f00ba-3b67-4852-b2c3-ff434d9faa33.jpeg"
+                            }
+                        ],
+                        "back_cover": {
+                            "background": {
+                                "picture": {
+                                    "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_d1408a4c-4562-4a62-b00d-ec85d6b9f139.jpeg"
+                                }
+                            },
+                            "hint": {
+                                "content": "10 pictures more to see inside",
+                                "color": "neutral-00",
+                                "icon": null
+                            },
+                            "cta": {
+                                "content": "See all pictures",
+                                "color": "neutral-00",
+                                "icon": null
+                            }
+                        },
+                        "contact_banner": null
+                    }
+                }
+            },
+            {
+                "type": "room_card",
+                "attributes": {
+                    "room_id": 1069617,
+                    "marker": {
+                        "lat": 41.423129,
+                        "lng": 2.209323,
+                        "label": {
+                            "content": "€450",
+                            "color": "neutral-80",
+                            "background_color": "neutral-00",
+                            "icon": null
+                        }
+                    },
+                    "headline": {
+                        "content": "Habitación exterior, con mucha luz",
+                        "color": "neutral-80",
+                        "icon": null
+                    },
+                    "subheading": {
+                        "content": "PRIVATE ROOM · 2 FLATMATES",
+                        "color": "neutral-50",
+                        "icon": null
+                    },
+                    "labels": [],
+                    "extra_info": [
+                        {
+                            "title": {
+                                "content": "Price",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "€450/month",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        }
+                    ],
+                    "lister": {
+                        "picture": {
+                            "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_1ccf13f7-c076-4a9a-bedf-3cab5cf6647e.jpeg"
+                        },
+                        "label": {
+                            "content": "7",
+                            "color": "neutral-00",
+                            "background_color": "info",
+                            "icon": "trusted"
+                        }
+                    },
+                    "pictures": {
+                        "items": [
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_48706893-ff95-42b2-b79f-80cd7af7b984.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_f0209148-4815-4f00-8556-d56a4f67156c.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_5ded8b8a-f47f-4d5f-82ff-c4d56c544105.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_091450c6-5598-42d6-9d5f-46d045a4171e.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_4b9ddd3c-f75b-4365-be72-2ac6e82244a8.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_46c20204-3954-4900-98bd-fbc7ea146308.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_ee5dac5b-5cea-4cd5-9741-56d750671d6d.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_850183a3-13b4-4629-9db2-03dea6f9efa2.jpeg"
+                            }
+                        ],
+                        "back_cover": null,
+                        "contact_banner": null
+                    }
+                }
+            },
+            {
+                "type": "room_card",
+                "attributes": {
+                    "room_id": 1167420,
+                    "marker": {
+                        "lat": 41.401064,
+                        "lng": 2.172465,
+                        "label": {
+                            "content": "€750",
+                            "color": "neutral-80",
+                            "background_color": "neutral-00",
+                            "icon": null
+                        }
+                    },
+                    "headline": {
+                        "content": "ROOM MORADA at CASA FIGA - SPECIAL PRICE FOR MAY",
+                        "color": "neutral-80",
+                        "icon": null
+                    },
+                    "subheading": {
+                        "content": "PRIVATE ROOM · 3 FLATMATES",
+                        "color": "neutral-50",
+                        "icon": null
+                    },
+                    "labels": [
+                        {
+                            "content": "BADI PLUS",
+                            "color": "neutral-00",
+                            "background_color": "tertiary",
+                            "icon": null
+                        }
+                    ],
+                    "extra_info": [
+                        {
+                            "title": {
+                                "content": "Price",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "€̶9̶0̶0̶ €750/month",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        },
+                        {
+                            "title": {
+                                "content": "Bills",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "Included",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        }
+                    ],
+                    "lister": {
+                        "picture": {
+                            "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_69406c0e-5853-4d2b-8f33-c2e655679f2a.png"
+                        },
+                        "label": {
+                            "content": "900",
+                            "color": "neutral-00",
+                            "background_color": "info",
+                            "icon": "trusted"
+                        }
+                    },
+                    "pictures": {
+                        "items": [
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_ab1b9151-75c1-48e1-bd4b-ff287885b0a2.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_f8d23528-c37f-4656-be95-424ba3fd22e0.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_0397472b-a4c3-4ee5-8135-5be671e0ad55.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_0a23f428-b267-494e-b03a-13776e75e934.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_a76143b4-bdf7-40f1-97f9-842f41598242.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_6f7fbbd0-aa6b-4851-bd00-a70f76d58516.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_0be97eaa-a3bc-4b76-9ea6-a5dd26e44ec2.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_993c2f26-dc93-4b78-9ace-8346d0cb8e2d.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_58470f1f-ddbe-4af6-997e-4e29d0f7f287.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_0020d10c-1542-46f3-bb90-f8fc87c9df2e.jpeg"
+                            }
+                        ],
+                        "back_cover": {
+                            "background": {
+                                "picture": {
+                                    "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_ab1b9151-75c1-48e1-bd4b-ff287885b0a2.jpeg"
+                                }
+                            },
+                            "hint": {
+                                "content": "13 pictures more to see inside",
+                                "color": "neutral-00",
+                                "icon": null
+                            },
+                            "cta": {
+                                "content": "See all pictures",
+                                "color": "neutral-00",
+                                "icon": null
+                            }
+                        },
+                        "contact_banner": null
+                    }
+                }
+            },
+            {
+                "type": "room_card",
+                "attributes": {
+                    "room_id": 1167412,
+                    "marker": {
+                        "lat": 41.401064,
+                        "lng": 2.172465,
+                        "label": {
+                            "content": "€750",
+                            "color": "neutral-80",
+                            "background_color": "neutral-00",
+                            "icon": null
+                        }
+                    },
+                    "headline": {
+                        "content": "ROOM LILA at CASA FIGA",
+                        "color": "neutral-80",
+                        "icon": null
+                    },
+                    "subheading": {
+                        "content": "PRIVATE ROOM · 3 FLATMATES",
+                        "color": "neutral-50",
+                        "icon": null
+                    },
+                    "labels": [
+                        {
+                            "content": "BADI PLUS",
+                            "color": "neutral-00",
+                            "background_color": "tertiary",
+                            "icon": null
+                        }
+                    ],
+                    "extra_info": [
+                        {
+                            "title": {
+                                "content": "Price",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "€̶9̶0̶0̶ €750/month",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        },
+                        {
+                            "title": {
+                                "content": "Bills",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "Included",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        }
+                    ],
+                    "lister": {
+                        "picture": {
+                            "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_69406c0e-5853-4d2b-8f33-c2e655679f2a.png"
+                        },
+                        "label": {
+                            "content": "900",
+                            "color": "neutral-00",
+                            "background_color": "info",
+                            "icon": "trusted"
+                        }
+                    },
+                    "pictures": {
+                        "items": [
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_1b427ac8-cca1-4f17-8c0a-ad7bb746fe61.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_b060cc34-8c78-4cb3-a008-d8b793a835ad.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_e06d36ec-f9fa-4d88-a92d-30b1e2468d26.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_51373382-1929-470a-ac2e-bcb7840f0ea9.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_287d64fd-c4d0-43df-a2ac-afb81a90a314.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_6f7fbbd0-aa6b-4851-bd00-a70f76d58516.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_0be97eaa-a3bc-4b76-9ea6-a5dd26e44ec2.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_993c2f26-dc93-4b78-9ace-8346d0cb8e2d.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_58470f1f-ddbe-4af6-997e-4e29d0f7f287.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_0020d10c-1542-46f3-bb90-f8fc87c9df2e.jpeg"
+                            }
+                        ],
+                        "back_cover": {
+                            "background": {
+                                "picture": {
+                                    "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_1b427ac8-cca1-4f17-8c0a-ad7bb746fe61.jpeg"
+                                }
+                            },
+                            "hint": {
+                                "content": "13 pictures more to see inside",
+                                "color": "neutral-00",
+                                "icon": null
+                            },
+                            "cta": {
+                                "content": "See all pictures",
+                                "color": "neutral-00",
+                                "icon": null
+                            }
+                        },
+                        "contact_banner": null
+                    }
+                }
+            },
+            {
+                "type": "room_card",
+                "attributes": {
+                    "room_id": 1167410,
+                    "marker": {
+                        "lat": 41.401064,
+                        "lng": 2.172465,
+                        "label": {
+                            "content": "€1,025",
+                            "color": "neutral-80",
+                            "background_color": "neutral-00",
+                            "icon": null
+                        }
+                    },
+                    "headline": {
+                        "content": "ROOM PALA at CASA FIGA - SPECIAL PRICE FOR MAY",
+                        "color": "neutral-80",
+                        "icon": null
+                    },
+                    "subheading": {
+                        "content": "PRIVATE ROOM · 3 FLATMATES",
+                        "color": "neutral-50",
+                        "icon": null
+                    },
+                    "labels": [
+                        {
+                            "content": "BADI PLUS",
+                            "color": "neutral-00",
+                            "background_color": "tertiary",
+                            "icon": null
+                        }
+                    ],
+                    "extra_info": [
+                        {
+                            "title": {
+                                "content": "Price",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "€̶1̶,̶2̶0̶0̶ €1,025/month",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        },
+                        {
+                            "title": {
+                                "content": "Bills",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "Included",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        }
+                    ],
+                    "lister": {
+                        "picture": {
+                            "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_69406c0e-5853-4d2b-8f33-c2e655679f2a.png"
+                        },
+                        "label": {
+                            "content": "900",
+                            "color": "neutral-00",
+                            "background_color": "info",
+                            "icon": "trusted"
+                        }
+                    },
+                    "pictures": {
+                        "items": [
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_39a88124-a91c-4793-9516-85b5390e1ace.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_cefa9e81-5fbf-4250-8458-dd6c5f769b9a.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_34747b3b-b81c-4a0f-b87c-00f7c712dcbe.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_b6d91dd3-6f8b-4f94-9f4b-708ab382a6dc.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_8d507459-3cba-4344-a9d3-b34cdca2ef80.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_63de4c56-02eb-4054-9d07-9cbbbaafb85a.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_5328caf9-8d84-42a8-a8ed-4c38d74c80d9.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_349757c1-77a3-4f22-a1e1-fc4233648007.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_993c2f26-dc93-4b78-9ace-8346d0cb8e2d.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_58470f1f-ddbe-4af6-997e-4e29d0f7f287.jpeg"
+                            }
+                        ],
+                        "back_cover": {
+                            "background": {
+                                "picture": {
+                                    "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_39a88124-a91c-4793-9516-85b5390e1ace.jpeg"
+                                }
+                            },
+                            "hint": {
+                                "content": "14 pictures more to see inside",
+                                "color": "neutral-00",
+                                "icon": null
+                            },
+                            "cta": {
+                                "content": "See all pictures",
+                                "color": "neutral-00",
+                                "icon": null
+                            }
+                        },
+                        "contact_banner": null
+                    }
+                }
+            },
+            {
+                "type": "room_card",
+                "attributes": {
+                    "room_id": 1167408,
+                    "marker": {
+                        "lat": 41.401064,
+                        "lng": 2.172465,
+                        "label": {
+                            "content": "€1,025",
+                            "color": "neutral-80",
+                            "background_color": "neutral-00",
+                            "icon": null
+                        }
+                    },
+                    "headline": {
+                        "content": "ROOM BREVA at CASA FIGA - SPECIAL PRICE FOR MAY",
+                        "color": "neutral-80",
+                        "icon": null
+                    },
+                    "subheading": {
+                        "content": "PRIVATE ROOM · 3 FLATMATES",
+                        "color": "neutral-50",
+                        "icon": null
+                    },
+                    "labels": [
+                        {
+                            "content": "BADI PLUS",
+                            "color": "neutral-00",
+                            "background_color": "tertiary",
+                            "icon": null
+                        }
+                    ],
+                    "extra_info": [
+                        {
+                            "title": {
+                                "content": "Price",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "€̶1̶,̶2̶0̶0̶ €1,025/month",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        },
+                        {
+                            "title": {
+                                "content": "Bills",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "Included",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        }
+                    ],
+                    "lister": {
+                        "picture": {
+                            "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_69406c0e-5853-4d2b-8f33-c2e655679f2a.png"
+                        },
+                        "label": {
+                            "content": "900",
+                            "color": "neutral-00",
+                            "background_color": "info",
+                            "icon": "trusted"
+                        }
+                    },
+                    "pictures": {
+                        "items": [
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_58583fda-fcd7-4c2a-a67f-65d93cf3ca9e.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_b9116793-bc6e-447e-b6b0-68ee2c352e66.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_0673c9e8-8640-4836-8af3-dc464f7a89c9.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_2f389628-96a0-427e-9fd9-4bf1f8dd86ba.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_8c39de12-6f7e-4a09-a6fc-9bf1e991924f.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_6e82789b-6dee-4d49-92bb-d0c1afc56bd8.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_5328caf9-8d84-42a8-a8ed-4c38d74c80d9.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_349757c1-77a3-4f22-a1e1-fc4233648007.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_993c2f26-dc93-4b78-9ace-8346d0cb8e2d.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_58470f1f-ddbe-4af6-997e-4e29d0f7f287.jpeg"
+                            }
+                        ],
+                        "back_cover": {
+                            "background": {
+                                "picture": {
+                                    "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_58583fda-fcd7-4c2a-a67f-65d93cf3ca9e.jpeg"
+                                }
+                            },
+                            "hint": {
+                                "content": "14 pictures more to see inside",
+                                "color": "neutral-00",
+                                "icon": null
+                            },
+                            "cta": {
+                                "content": "See all pictures",
+                                "color": "neutral-00",
+                                "icon": null
+                            }
+                        },
+                        "contact_banner": null
+                    }
+                }
+            },
+            {
+                "type": "room_card",
+                "attributes": {
+                    "room_id": 1167160,
+                    "marker": {
+                        "lat": 41.401064,
+                        "lng": 2.172465,
+                        "label": {
+                            "content": "€750",
+                            "color": "neutral-80",
+                            "background_color": "neutral-00",
+                            "icon": null
+                        }
+                    },
+                    "headline": {
+                        "content": "ROOM PAZ at CASA BOTERO - SPECIAL PRICE FOR MAY",
+                        "color": "neutral-80",
+                        "icon": null
+                    },
+                    "subheading": {
+                        "content": "PRIVATE ROOM · 4 FLATMATES",
+                        "color": "neutral-50",
+                        "icon": null
+                    },
+                    "labels": [
+                        {
+                            "content": "BADI PLUS",
+                            "color": "neutral-00",
+                            "background_color": "tertiary",
+                            "icon": null
+                        }
+                    ],
+                    "extra_info": [
+                        {
+                            "title": {
+                                "content": "Price",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "€̶9̶0̶0̶ €750/month",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        },
+                        {
+                            "title": {
+                                "content": "Bills",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "Included",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        }
+                    ],
+                    "lister": {
+                        "picture": {
+                            "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_69406c0e-5853-4d2b-8f33-c2e655679f2a.png"
+                        },
+                        "label": {
+                            "content": "900",
+                            "color": "neutral-00",
+                            "background_color": "info",
+                            "icon": "trusted"
+                        }
+                    },
+                    "pictures": {
+                        "items": [
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_7eab6ebf-55cb-4fc8-9711-2f054b40f3df.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_a446c2a7-2e87-48b0-95a8-13428b858567.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_29f16851-3365-4a3d-9f6e-7416b6b91c33.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_21ca2117-cc82-41ee-9c49-41c7f42eae6c.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_bc210e09-4ee9-46d8-a932-a28c42f601ae.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_5e9a8a77-d8b0-4c00-8f6e-5b521de54718.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_4102a957-3ed2-4309-aa46-2859f1186f80.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_661b7118-1661-4378-acb9-10fd641b4420.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_92fa0c25-0314-4b39-8e7e-42bf74bd84ef.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_9c3bf207-4724-481b-9226-a03817975496.jpeg"
+                            }
+                        ],
+                        "back_cover": {
+                            "background": {
+                                "picture": {
+                                    "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_7eab6ebf-55cb-4fc8-9711-2f054b40f3df.jpeg"
+                                }
+                            },
+                            "hint": {
+                                "content": "14 pictures more to see inside",
+                                "color": "neutral-00",
+                                "icon": null
+                            },
+                            "cta": {
+                                "content": "See all pictures",
+                                "color": "neutral-00",
+                                "icon": null
+                            }
+                        },
+                        "contact_banner": null
+                    }
+                }
+            },
+            {
+                "type": "room_card",
+                "attributes": {
+                    "room_id": 1167158,
+                    "marker": {
+                        "lat": 41.401064,
+                        "lng": 2.172465,
+                        "label": {
+                            "content": "€750",
+                            "color": "neutral-80",
+                            "background_color": "neutral-00",
+                            "icon": null
+                        }
+                    },
+                    "headline": {
+                        "content": "ROOM PRADO at CASA BOTERO - SPECIAL PRICE FOR MAY",
+                        "color": "neutral-80",
+                        "icon": null
+                    },
+                    "subheading": {
+                        "content": "PRIVATE ROOM · 4 FLATMATES",
+                        "color": "neutral-50",
+                        "icon": null
+                    },
+                    "labels": [
+                        {
+                            "content": "BADI PLUS",
+                            "color": "neutral-00",
+                            "background_color": "tertiary",
+                            "icon": null
+                        }
+                    ],
+                    "extra_info": [
+                        {
+                            "title": {
+                                "content": "Price",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "€̶9̶0̶0̶ €750/month",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        },
+                        {
+                            "title": {
+                                "content": "Bills",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "Included",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        }
+                    ],
+                    "lister": {
+                        "picture": {
+                            "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_69406c0e-5853-4d2b-8f33-c2e655679f2a.png"
+                        },
+                        "label": {
+                            "content": "900",
+                            "color": "neutral-00",
+                            "background_color": "info",
+                            "icon": "trusted"
+                        }
+                    },
+                    "pictures": {
+                        "items": [
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_e455d82a-a16e-400f-9847-d22ed1f07c33.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_9fd25783-a29a-463b-8b26-76ce2833ffc6.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_2e0f024b-2a40-4b65-a0d6-31003bf6fbd0.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_1a53a18f-ac7b-4656-8705-7f61c1b0b527.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_4102a957-3ed2-4309-aa46-2859f1186f80.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_661b7118-1661-4378-acb9-10fd641b4420.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_92fa0c25-0314-4b39-8e7e-42bf74bd84ef.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_9c3bf207-4724-481b-9226-a03817975496.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_31844e91-67ac-41c2-829a-121b8e1f429e.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_c6711a04-3830-4039-bc00-25e9ea4ddcf6.jpeg"
+                            }
+                        ],
+                        "back_cover": {
+                            "background": {
+                                "picture": {
+                                    "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_e455d82a-a16e-400f-9847-d22ed1f07c33.jpeg"
+                                }
+                            },
+                            "hint": {
+                                "content": "12 pictures more to see inside",
+                                "color": "neutral-00",
+                                "icon": null
+                            },
+                            "cta": {
+                                "content": "See all pictures",
+                                "color": "neutral-00",
+                                "icon": null
+                            }
+                        },
+                        "contact_banner": null
+                    }
+                }
+            },
+            {
+                "type": "room_card",
+                "attributes": {
+                    "room_id": 1167156,
+                    "marker": {
+                        "lat": 41.401064,
+                        "lng": 2.172465,
+                        "label": {
+                            "content": "€1,200",
+                            "color": "neutral-80",
+                            "background_color": "neutral-00",
+                            "icon": null
+                        }
+                    },
+                    "headline": {
+                        "content": "ROOM LLERAS at CASA BOTERO - SPECIAL PRICE FOR MAY",
+                        "color": "neutral-80",
+                        "icon": null
+                    },
+                    "subheading": {
+                        "content": "PRIVATE ROOM · 4 FLATMATES",
+                        "color": "neutral-50",
+                        "icon": null
+                    },
+                    "labels": [
+                        {
+                            "content": "BADI PLUS",
+                            "color": "neutral-00",
+                            "background_color": "tertiary",
+                            "icon": null
+                        }
+                    ],
+                    "extra_info": [
+                        {
+                            "title": {
+                                "content": "Price",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "€1,200/month",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        },
+                        {
+                            "title": {
+                                "content": "Bills",
+                                "color": "neutral-50",
+                                "icon": null
+                            },
+                            "body": {
+                                "content": "Included",
+                                "color": "neutral-80",
+                                "icon": null
+                            }
+                        }
+                    ],
+                    "lister": {
+                        "picture": {
+                            "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_69406c0e-5853-4d2b-8f33-c2e655679f2a.png"
+                        },
+                        "label": {
+                            "content": "900",
+                            "color": "neutral-00",
+                            "background_color": "info",
+                            "icon": "trusted"
+                        }
+                    },
+                    "pictures": {
+                        "items": [
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_3dcc86a5-8764-44a5-9055-4775f0966f04.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_ffc13b55-5198-4264-a057-b18e131fb822.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_b8e4bc15-692b-410d-abf2-513ef46d15b9.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_d75e395b-d945-4ee8-9a80-935e82bfb876.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_c532792a-729d-4888-b0bd-62b082e1d299.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_24580644-7abb-4c97-b13e-83d7b3923b6c.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_f850e46a-aa14-4d5a-a587-14faa2704c51.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_62b8fd63-0b3e-48fa-b714-2570ecc09275.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_92fa0c25-0314-4b39-8e7e-42bf74bd84ef.jpeg"
+                            },
+                            {
+                                "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_9c3bf207-4724-481b-9226-a03817975496.jpeg"
+                            }
+                        ],
+                        "back_cover": {
+                            "background": {
+                                "picture": {
+                                    "url": "https://d1jhx8f0okmpxm.cloudfront.net/uploads/pictures/width_500_3dcc86a5-8764-44a5-9055-4775f0966f04.jpeg"
+                                }
+                            },
+                            "hint": {
+                                "content": "14 pictures more to see inside",
+                                "color": "neutral-00",
+                                "icon": null
+                            },
+                            "cta": {
+                                "content": "See all pictures",
+                                "color": "neutral-00",
+                                "icon": null
+                            }
+                        },
+                        "contact_banner": null
+                    }
+                }
+            }
+        ],
+        "previous_token": null,
+        "next_token": "eyJwYWdlIjoyLCJwZXIiOjIwLCJvZmZzZXQiOjB9"
+    },
+    "metadata": {
+        "geo": {
+            "country_code": "ES",
+            "country": "Spain",
+            "city": "Barcelona",
+            "metro_area": "Barcelona"
+        }
+    }
+}
